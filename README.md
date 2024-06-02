@@ -38,22 +38,22 @@
 **2. Запустите Excel и откройте книгу с расчётами. Чтобы добавить надстройку, необходима вкладка «Разработчик».**
 
 **Если вкладка уже отображается на ленте, переходите к п. 6. Если нет – необходимо её добавить.  Для этого зайдите в меню «Файл».**
-![](https://sun9-67.userapi.com/impg/egmovoaViEhxIDFybjRjelTiPKlxFmS6HQM4_g/d3OroxSyPsE.jpg?size=1801x766&quality=95&sign=56172d95b2e1c8bd2534945e3eff55c6 =1080x)
+<img src="https://sun9-67.userapi.com/impg/egmovoaViEhxIDFybjRjelTiPKlxFmS6HQM4_g/d3OroxSyPsE.jpg?size=1801x766&quality=95&sign=56172d95b2e1c8bd2534945e3eff55c6" width="1080px"/>
 
 **3. Перейдите в «Параметры».**
-![](https://sun9-24.userapi.com/impg/We5GNI96mHj5XjVZcCfrzUWE5lLfwytXwy5BfQ/K5fK2myoCuI.jpg?size=568x785&quality=95&sign=b6c98c22a53a68da3bee818b6913470d =480x)
+<img src="https://sun9-24.userapi.com/impg/We5GNI96mHj5XjVZcCfrzUWE5lLfwytXwy5BfQ/K5fK2myoCuI.jpg?size=568x785&quality=95&sign=b6c98c22a53a68da3bee818b6913470d" width="480px"/>
 
 **4. Перейдите в пункт «Настройка ленты»**
-![](https://sun9-39.userapi.com/impg/7IqcEIK8012UbAPcZ3ZN13gwmRkyCseq394zFA/pnSk6mgaZYQ.jpg?size=471x761&quality=95&sign=ef747e849ff2f52203f972daf8938ad6 =360x)
+<img src="https://sun9-39.userapi.com/impg/7IqcEIK8012UbAPcZ3ZN13gwmRkyCseq394zFA/pnSk6mgaZYQ.jpg?size=471x761&quality=95&sign=ef747e849ff2f52203f972daf8938ad6" width="360px"/>
 
 **5. Поставьте галочку на пункте «Разработчик», нажмите «ОК», и в ленте появится новая вкладка.**
-![](https://sun9-60.userapi.com/impg/43e9EDG4yHV2rMq1iN3OghsUOmU2NmN_zSBxrA/oH7cuvGxcmg.jpg?size=1067x776&quality=95&sign=abb86b6f22ca4fbac4ffcfb2ca1c8b05 =720x)
+<img src="https://sun9-60.userapi.com/impg/43e9EDG4yHV2rMq1iN3OghsUOmU2NmN_zSBxrA/oH7cuvGxcmg.jpg?size=1067x776&quality=95&sign=abb86b6f22ca4fbac4ffcfb2ca1c8b05" width="720px"/>
 
 **6. Во вкладке «Разработчик» перейдите в «Надстройки»** (в Excel 2013 и новее «Надстройки Excel»)
-![](https://sun9-75.userapi.com/impg/_le7WaabLXwGIJ3Wy-tmFxC-j144eeW286mbHg/Kk9uTi-xlgw.jpg?size=806x171&quality=95&sign=e553560b66eb0755359b9850b0b49bcf =720x)
+<img src="https://sun9-75.userapi.com/impg/_le7WaabLXwGIJ3Wy-tmFxC-j144eeW286mbHg/Kk9uTi-xlgw.jpg?size=806x171&quality=95&sign=e553560b66eb0755359b9850b0b49bcf" width="720px"/>
 
 **7. Нажмите «Обзор…»**
-![](https://sun9-33.userapi.com/impg/krEsaW1VxD5Vpe2FXWHRaJKd0s4QDWlv7NywfA/ftx8-x8FBoA.jpg?size=389x445&quality=95&sign=480e81b24b2ee0c9dec7e5014e15d0e2 =360x)
+<img src="https://sun9-33.userapi.com/impg/krEsaW1VxD5Vpe2FXWHRaJKd0s4QDWlv7NywfA/ftx8-x8FBoA.jpg?size=389x445&quality=95&sign=480e81b24b2ee0c9dec7e5014e15d0e2" width="360px"/>
 
 **8. Выберите загруженный ранее файл, и надстройка появится в списке доступных.**
 ![](https://sun9-25.userapi.com/impg/tVQJn4HO3M8ewBhpB39ip-fGIN642BQ37GRo8A/hAqo7ubeiec.jpg?size=944x768&quality=95&sign=620b5b3d6c01d89e703db61f78dc4e1e =720x)
