@@ -56,16 +56,16 @@
 <img src="https://sun9-33.userapi.com/impg/krEsaW1VxD5Vpe2FXWHRaJKd0s4QDWlv7NywfA/ftx8-x8FBoA.jpg?size=389x445&quality=95&sign=480e81b24b2ee0c9dec7e5014e15d0e2" width="360px"/>
 
 **8. Выберите загруженный ранее файл, и надстройка появится в списке доступных.**
-![](https://sun9-25.userapi.com/impg/tVQJn4HO3M8ewBhpB39ip-fGIN642BQ37GRo8A/hAqo7ubeiec.jpg?size=944x768&quality=95&sign=620b5b3d6c01d89e703db61f78dc4e1e =720x)
+<img src="https://sun9-25.userapi.com/impg/tVQJn4HO3M8ewBhpB39ip-fGIN642BQ37GRo8A/hAqo7ubeiec.jpg?size=944x768&quality=95&sign=620b5b3d6c01d89e703db61f78dc4e1e" width="720px"/>
 
 **9. Далее можно задать сочетание клавиш для работы с надстройкой. Для этого перейдите в «Макросы».**
-![](https://sun9-9.userapi.com/impg/mDixaDdQjHN6mZrYdz9rU7kaKs_kJ3PsaBJCIw/i1zwWfaO5BQ.jpg?size=807x171&quality=95&sign=248d242cd429af118c9f529428e773ba =720x)
+<img src="https://sun9-9.userapi.com/impg/mDixaDdQjHN6mZrYdz9rU7kaKs_kJ3PsaBJCIw/i1zwWfaO5BQ.jpg?size=807x171&quality=95&sign=248d242cd429af118c9f529428e773ba"width=" width="720px"/>
 
 **10. В поле поиска введите название надстройки и перейдите в «Параметры»**
-![](https://sun9-28.userapi.com/impg/OrCzZExtSChn2k_MYsoU9pyeJfRhOhSil_X6PQ/vGgnSWxzv_w.jpg?size=502x438&quality=95&sign=e8b3c83826e3307f1e7c3a156a737924 =480x)
+<img src="https://sun9-28.userapi.com/impg/OrCzZExtSChn2k_MYsoU9pyeJfRhOhSil_X6PQ/vGgnSWxzv_w.jpg?size=502x438&quality=95&sign=e8b3c83826e3307f1e7c3a156a737924"  width="480px"/>
 
 **11. Назначьте удобное вам сочетание клавиш (например, Ctrl + d).**
-![](https://sun9-72.userapi.com/impg/J5xCH139_tOx_oPGTHqB_3tF-UFIfSvQnf_yZQ/NGItsO8UbSc.jpg?size=434x295&quality=95&sign=d15176de03868b7a87309d4a5a73a5c0 =360x)
+<img src="https://sun9-72.userapi.com/impg/J5xCH139_tOx_oPGTHqB_3tF-UFIfSvQnf_yZQ/NGItsO8UbSc.jpg?size=434x295&quality=95&sign=d15176de03868b7a87309d4a5a73a5c0"  width="360px"/>
 
 ## **ИНСТРУКЦИЯ К ИСПОЛЬЗОВАНИЮ**
 
@@ -73,21 +73,20 @@
 
 >**ПРИМЕЧАНИЕ**
 Если значение отрицательное, перед знаком «минус» поставьте одинарную кавычку.
-
-![](https://sun9-16.userapi.com/impg/HIyLIFY1pZ7Z28TyvzjDiJsMycTUDRuQAMC6kw/p39mw6A-anM.jpg?size=356x445&quality=95&sign=6b4851d9b44b71f99d64bf4e45c6df09 =320x)
+<img src="https://sun9-16.userapi.com/impg/HIyLIFY1pZ7Z28TyvzjDiJsMycTUDRuQAMC6kw/p39mw6A-anM.jpg?size=356x445&quality=95&sign=6b4851d9b44b71f99d64bf4e45c6df0"  width="320px"/>
 
 **2. Выделите ячейку (диапазон ячеек), нажмите назначенное ранее сочетание клавиш, и справа появится значение в радианах.**
-![](https://sun9-39.userapi.com/impg/0jv__9_MfDJVVJ1b-ObfqHOeFnu3bw8AV4QKyw/WbqJ8D-gQDI.jpg?size=563x374&quality=95&sign=ac22e5c66889f6ff48b8a354fb3f00ec =480x)
+<img src="https://sun9-39.userapi.com/impg/0jv__9_MfDJVVJ1b-ObfqHOeFnu3bw8AV4QKyw/WbqJ8D-gQDI.jpg?size=563x374&quality=95&sign=ac22e5c66889f6ff48b8a354fb3f00ec"  width="480px"/>
 
 **3. Теперь можно ссылаться на эту ячейку при вводе формул с переменными, выраженными в других единицах измерения**
 
 В примере ниже вводится формула для вычисления расстояния. В результате получается значение метрах, не нуждающееся в дальнейших преобразованиях
-![](https://sun9-2.userapi.com/impg/YC_NG_vlT4KGpGPSzuI_8Sl3tC_ymRPGsRyitw/XABIiNOxYQM.jpg?size=770x503&quality=95&sign=4be35fe2c2b968184e76d0d104d2b396 =720x)
+<img src="https://sun9-2.userapi.com/impg/YC_NG_vlT4KGpGPSzuI_8Sl3tC_ymRPGsRyitw/XABIiNOxYQM.jpg?size=770x503&quality=95&sign=4be35fe2c2b968184e76d0d104d2b396"  width="720px"/>
 
 Если необходимо произвести расчёт только со значениями градусов, минут и секунд, ссылайтесь на ячейки, содержащие соответствующие значения в радианах. Результатом будет значение в радианах, которое, можно преобразовать.
 
 Нажмите назначенное ранее сочетание клавиш, и справа появится значение в градусах, минутах и секундах.
-![](https://sun9-57.userapi.com/impg/8YuCCmi9UiNwF7afx1lliwWzuy0HFszu9y2UEg/RntKBkOVjQU.jpg?size=846x486&quality=95&sign=b0eb56826e4e7e5334b8242bc01eaa9f =720x)
+<img src="https://sun9-57.userapi.com/impg/8YuCCmi9UiNwF7afx1lliwWzuy0HFszu9y2UEg/RntKBkOVjQU.jpg?size=846x486&quality=95&sign=b0eb56826e4e7e5334b8242bc01eaa9f"  width="720px"/>
 
 ## Стек  технологий:
 
