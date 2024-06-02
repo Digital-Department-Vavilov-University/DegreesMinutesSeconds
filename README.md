@@ -67,7 +67,7 @@
 
 **9. Далее можно задать сочетание клавиш для работы с надстройкой. Для этого перейдите в «Макросы».**
 
-<img src="https://sun9-9.userapi.com/impg/mDixaDdQjHN6mZrYdz9rU7kaKs_kJ3PsaBJCIw/i1zwWfaO5BQ.jpg?size=807x171&quality=95&sign=248d242cd429af118c9f529428e773ba"width=" width="720px"/>
+<img src="https://sun9-9.userapi.com/impg/mDixaDdQjHN6mZrYdz9rU7kaKs_kJ3PsaBJCIw/i1zwWfaO5BQ.jpg?size=807x171&quality=95&sign=248d242cd429af118c9f529428e773ba" width="720px"/>
 
 **10. В поле поиска введите название надстройки и перейдите в «Параметры»**
 
